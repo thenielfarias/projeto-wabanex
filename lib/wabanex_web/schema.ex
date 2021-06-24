@@ -10,5 +10,4 @@ defmodule WabanexWeb.Schema do
   mutation do
     import_fields :root_mutation
   end
-
 end
